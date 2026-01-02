@@ -1,2 +1,4 @@
 Sample TXT file !!
-change 
+
+Take input from use
+add the values
