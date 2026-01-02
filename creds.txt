@@ -1,2 +1,0 @@
-username = ar26
-password = ga26
