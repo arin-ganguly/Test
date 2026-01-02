@@ -2,3 +2,5 @@ Sample TXT file !!
 
 Take input from use
 add the values
+
+submmit data to the database
